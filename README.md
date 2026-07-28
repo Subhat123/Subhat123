@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi 👋 I'm Subha
 
-<!--
-**Subhat123/Subhat123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
+- 🎓 B.Sc. Computer Science (Final Year)
+- 💡 Aspiring AI & ML Engineer
+- 🌱 Currently learning Python, SQL, Power BI, FastAPI & Machine Learning
+- 📍 Tamil Nadu, India
 
-Here are some ideas to get you started:
+🛠 Skills
+- Python
+- SQL
+- Power BI
+- FastAPI
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Projects
+- Stock Management System
+- Medical Inventory Management
+- AI Student Chatbot
+- Crop Yield Prediction
+- VPN Architecture Modernization
+
+📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/subha-t-8159272ab
+- GitHub: https://github.com/Subhat123
+
+  Thanks for visiting my profile!
+
+
+
